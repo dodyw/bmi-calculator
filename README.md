@@ -51,7 +51,7 @@ A modern, feature-rich BMI (Body Mass Index) calculator application built with F
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bmi.git
+   git clone https://github.com/dodyw/bmi-calculator.git
    ```
 
 2. Navigate to the project directory:
